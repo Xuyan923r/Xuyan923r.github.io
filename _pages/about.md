@@ -19,7 +19,7 @@ redirect_from:
 
 # 👋 About Me
 
-Hi!👋 My name is Xuyan Ye (叶栩言). I am a third-year undergraduate student majoring in AI at the Gaoling School of Artificial Intelligence, Renmin University of China. I am currently doing a research internship at **RUCBM** under the supervision of Professor [Yankai Lin](https://linyankai.github.io/). My research interests include **LLM Reasoning, Self-Evolving Agents, and Agentic Rl**. ‼️ **I am actively seeking a Summer 2026 research internship and CS/AI PhD positions for Fall 2027 entry. If you are interested in my research experience, I would be very happy to connect.**
+Hi!👋 My name is Xuyan Ye (叶栩言). I am a third-year undergraduate student majoring in AI at the Gaoling School of Artificial Intelligence, Renmin University of China. I am currently doing a research internship at **RUCBM** under the supervision of Professor [Yankai Lin](https://linyankai.github.io/). My research interests include **LLM Reasoning, Self-Evolving Agents, and Agentic RL**. ‼️ **I am actively seeking a Summer 2026 research internship and CS/AI PhD positions for Fall 2027 entry. If you are interested in my research experience, I would be very happy to connect.**
 
 
 # 🔥 News
@@ -41,11 +41,22 @@ Shengda Fan<sup>*</sup>, **Xuyan Ye<sup>*</sup>**, Yankai Lin<sup>†</sup>
 
 [📓 **arXiv**](https://arxiv.org/abs/2601.13761)
 
-[🤗 **Huggingface**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=euF17h4AAAAJ&citation_for_view=euF17h4AAAAJ:u-x6o8ySG0sC)
+[🤗 **Huggingface**](https://huggingface.co/papers/2601.13761)
 
 [💻 **Github**](https://github.com/RUCBM/DARC)
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/APBench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**AgentProcessBench: Diagnosing Step-Level Process Quality in Tool-Using Agents**
+
+Shengda Fan<sup>*</sup>, **Xuyan Ye<sup>*</sup>**, ..., Yankai Lin<sup>†</sup>  
+<sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.
+
+</div>
+</div>
+
 
 # 📖 Educations
 - *2023.09 - 2027.06 (expected)*: Undergraduate student at the Gaoling School of Artificial Intelligence, Renmin University of China, Beijing. 
