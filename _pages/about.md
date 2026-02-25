@@ -51,7 +51,7 @@ Shengda Fan<sup>*</sup>, **Xuyan Ye<sup>*</sup>**, Yankai Lin<sup>†</sup>
 <div class='paper-box-text' markdown="1">
 **AgentProcessBench: Diagnosing Step-Level Process Quality in Tool-Using Agents**
 
-Shengda Fan<sup>*</sup>, **Xuyan Ye<sup>*</sup>**, ..., Yankai Lin<sup>†</sup>  
+Shengda Fan<sup>*</sup>, **Xuyan Ye<sup>*</sup>**, Yupeng Huo, Zhiyuan Chen et al.  
 <sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.
 
 </div>
