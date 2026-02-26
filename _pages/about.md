@@ -29,7 +29,7 @@ Hi!👋 My name is Xuyan Ye (叶栩言). I am a third-year undergraduate student
  
 
 
-# 📝 Publications 
+# 📝 Preprints and Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DARC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
