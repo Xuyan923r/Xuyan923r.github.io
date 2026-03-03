@@ -23,10 +23,11 @@ Hi!👋 My name is Xuyan Ye (叶栩言). I am a third-year undergraduate student
 
 
 # 🔥 News
+- *2026.02*: &nbsp;💻 I’m excited to share that I’ve started my research internship at **[U-Lab](https://ulab-uiuc.github.io/), UIUC**! Deeply grateful to Prof. [Jiaxuan You](https://ulab-uiuc.github.io/) and the PhD mentors in the group for their invaluable guidance and support.
 - *2026.01*: &nbsp;📑 My first project, [DARC](https://arxiv.org/abs/2601.13761), which I co-authored as a co–first author, is now available on **arXiv**! Huge thanks to Senior Fan and Prof. Lin for their guidance and support. I hope more people will check out **DARC**—if you have any ideas about self-evolving agents, feel free to reach out and chat!
-- *2025.09*: &nbsp;💻 I’ve started my research internship at **RUCBM**! Many thanks to Professor [Yankai Lin](https://linyankai.github.io/) and the senior students at RUCBM for their guidance and support! 
+- *2025.09*: &nbsp;💻 I started my research internship at **RUCBM**! Many thanks to Professor [Yankai Lin](https://linyankai.github.io/) and the senior students at RUCBM for their guidance and support! 
 - *2025.05*: &nbsp;🎉 I transferred from the [School of Finance](http://sf.ruc.edu.cn/) at Renmin University of China to the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), and I’m really looking forward to studying at **GSAI** over the next two years!
-- *2025.01*: &nbsp;⛰️ I began my three-month exchange at the University of California, Davis, and I am truly grateful to Renmin University of China for this valuable opportunity, as well as to the warm and welcoming faculty and students at UC Davis.
+- *2025.01*: &nbsp;⛰️ I began my three-month exchange at the **University of California, Davis**, and I am truly grateful to Renmin University of China for this valuable opportunity, as well as to the warm and welcoming faculty and students at UC Davis.
 
  
 
