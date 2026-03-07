@@ -19,7 +19,7 @@ redirect_from:
 
 # 👋 About Me
 
-Hi!👋 My name is Xuyan Ye (叶栩言). I am a third-year undergraduate student majoring in AI at the Gaoling School of Artificial Intelligence, Renmin University of China. I am currently doing a research internship at **RUCBM** under the supervision of Professor [Yankai Lin](https://linyankai.github.io/). My research interests include **LLM Reasoning, Self-Evolving Agents, and Agentic RL**. ‼️ **I am actively seeking a Summer 2026 research internship and CS/AI PhD positions for Fall 2027 entry. If you are interested in my research experience, I would be very happy to connect.**
+Hi!👋 My name is Xuyan Ye. I am a third-year undergraduate student majoring in AI at the Gaoling School of Artificial Intelligence, Renmin University of China. I am currently doing a research internship at **RUCBM** under the supervision of Professor [Yankai Lin](https://linyankai.github.io/). My research interests include **LLM Reasoning, Self-Evolving Agents, and Agentic RL**. ‼️ **I am actively seeking a Summer 2026 research internship and CS/AI PhD positions for Fall 2027 entry. If you are interested in my research experience, I would be very happy to connect.**
 
 
 # 🔥 News
@@ -28,8 +28,6 @@ Hi!👋 My name is Xuyan Ye (叶栩言). I am a third-year undergraduate student
 - *2025.09*: &nbsp;💻 I started my research internship at **RUCBM**! Many thanks to Professor [Yankai Lin](https://linyankai.github.io/) and the senior students at RUCBM for their guidance and support! 
 - *2025.05*: &nbsp;🎉 I transferred from the [School of Finance](http://sf.ruc.edu.cn/) at Renmin University of China to the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), and I’m really looking forward to studying at **GSAI** over the next two years!
 - *2025.01*: &nbsp;⛰️ I began my three-month exchange at the **University of California, Davis**, and I am truly grateful to Renmin University of China for this valuable opportunity, as well as to the warm and welcoming faculty and students at UC Davis.
-
- 
 
 
 # 📝 Preprints and Publications 
