@@ -30,6 +30,8 @@ Hi!👋 My name is Xuyan Ye. I am a third-year undergraduate student majoring in
 - *2025.01*: &nbsp;⛰️ I began my three-month exchange at the **University of California, Davis**, and I am truly grateful to Renmin University of China for this valuable opportunity, as well as to the warm and welcoming faculty and students at UC Davis.
 
 
+<span class='anchor' id='publications'></span>
+
 # 📝 Preprints and Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DARC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -70,6 +72,5 @@ Shengda Fan<sup>*</sup>, **Xuyan Ye<sup>*</sup>**, Yupeng Huo, Zhiyuan Chen et a
 # 🎖 Honors and Awards
 - *2025.10* Renmin University of China Academic Excellence Scholarship. 
 - *2025.04* Renmin University of China Presidential Scholarship.
-
 
 

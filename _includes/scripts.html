@@ -1,4 +1,18 @@
 <script src="assets/js/main.min.js"></script>
+<script>
+  $(document).ready(function() {
+    $(".wechat-popup").magnificPopup({
+      type: "image",
+      closeOnContentClick: true,
+      closeBtnInside: false,
+      gallery: {
+        enabled: false
+      },
+      mainClass: "mfp-zoom-in",
+      midClick: true
+    });
+  });
+</script>
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
