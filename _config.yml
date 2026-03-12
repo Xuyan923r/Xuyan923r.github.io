@@ -39,7 +39,7 @@ author:
   foursquare       :
   github           : "Xuyan923r"
   huggingface      : "https://huggingface.co/LulaCola"
-  wechat_qr        : "images/wechat.JPG" # e.g., "images/wechat.JPG"
+  wechat_qr        : #"images/wechat.JPG" # e.g., "images/wechat.JPG"
   google_plus      :
   keybase          :
   instagram        :
