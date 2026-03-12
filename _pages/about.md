@@ -19,7 +19,7 @@ redirect_from:
 
 # 👋 About Me
 
-Hi!👋 My name is Xuyan Ye. I am a third-year undergraduate student majoring in AI at the **Gaoling School of Artificial Intelligence, Renmin University of China**. I am currently doing a research internship at **RUCBM** under the supervision of Professor [Yankai Lin](https://linyankai.github.io/). My research interests include **LLM Reasoning, Self-Evolving Agents, and Agentic RL**. ‼️ **I am actively seeking a Summer 2026 research internship and CS/AI PhD positions for Fall 2027 entry. If you are interested in my research experience, I would be very happy to connect.**
+Hi!👋 My name is Xuyan Ye. I am a third-year undergraduate student majoring in AI at the **Gaoling School of Artificial Intelligence, Renmin University of China**. My research interests include **LLM Reasoning, Self-Evolving Agents, and Agentic RL**. ‼️ **I am actively seeking a Summer 2026 research internship and CS/AI PhD positions for Fall 2027 entry. If you are interested in my research experience, I would be very happy to connect.**
 
 
 # 🔥 News
