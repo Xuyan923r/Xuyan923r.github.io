@@ -50,13 +50,19 @@ Shengda Fan<sup>*</sup>, **Xuyan Ye<sup>*</sup>**, Yankai Lin<sup>†</sup>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/APBench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/APBench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **AgentProcessBench: Diagnosing Step-Level Process Quality in Tool-Using Agents**
 
 Shengda Fan<sup>*</sup>, **Xuyan Ye<sup>*</sup>**, Yupeng Huo, Zhiyuan Chen et al.  
 <sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.
+[🌍 **Homepage**](https://rucbm.github.io/AgentProcessBench-Homepage/)
 
+[📓 **arXiv**](https://arxiv.org/abs/2603.14465)
+
+[🤗 **Huggingface**](https://huggingface.co/papers/2603.14465)
+
+[💻 **Github**](https://github.com/RUCBM/AgentProcessBench)
 </div>
 </div>
 
