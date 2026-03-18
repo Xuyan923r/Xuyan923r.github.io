@@ -56,6 +56,7 @@ Shengda Fan<sup>*</sup>, **Xuyan Ye<sup>*</sup>**, Yankai Lin<sup>†</sup>
 
 Shengda Fan<sup>*</sup>, **Xuyan Ye<sup>*</sup>**, Yupeng Huo, Zhiyuan Chen et al.  
 <sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.
+
 [🌍 **Homepage**](https://rucbm.github.io/AgentProcessBench-Homepage/)
 
 [📓 **arXiv**](https://arxiv.org/abs/2603.14465)
