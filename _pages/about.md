@@ -33,12 +33,13 @@ Hi!👋 My name is Xuyan Ye. I am a third-year undergraduate student majoring in
 <span class='anchor' id='publications'></span>
 
 # 📝 Preprints and Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DARC.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/OPD.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**DARC: Decoupled Asymmetric Reasoning Curriculum for LLM Evolution**
+**The Many Faces of On-Policy Distillation: Pitfalls, Mechanisms, and Fixes**
 
-Shengda Fan<sup>*</sup>, **Xuyan Ye<sup>*</sup>**, Yankai Lin<sup>†</sup>  
+Siqi Zhu, **Xuyan Ye<sup>*</sup>**, Hongyu Lu<sup>*</sup>, Weiye Shi, Ge Liu<sup>†</sup> 
 <sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.
 
 
@@ -67,6 +68,23 @@ Shengda Fan<sup>*</sup>, **Xuyan Ye<sup>*</sup>**, Yupeng Huo, Zhiyuan Chen et a
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DARC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**DARC: Decoupled Asymmetric Reasoning Curriculum for LLM Evolution**
+
+Shengda Fan<sup>*</sup>, **Xuyan Ye<sup>*</sup>**, Yankai Lin<sup>†</sup>  
+<sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.
+
+
+[📓 **arXiv**](https://arxiv.org/abs/2601.13761)
+
+[🤗 **Huggingface**](https://huggingface.co/papers/2601.13761)
+
+[💻 **Github**](https://github.com/RUCBM/DARC)
+</div>
+</div>
 
 # 📖 Educations
 - *2023.09 - 2027.06 (expected)*: Undergraduate student at the Gaoling School of Artificial Intelligence, **Renmin University of China**, Beijing. 
