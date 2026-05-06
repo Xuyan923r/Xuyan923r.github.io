@@ -34,12 +34,13 @@ Hi!👋 My name is Xuyan Ye. I am a third-year undergraduate student majoring in
 
 # 📝 Preprints and Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/OPD.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/OPD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **The Many Faces of On-Policy Distillation: Pitfalls, Mechanisms, and Fixes**
 
 Siqi Zhu, **Xuyan Ye<sup>*</sup>**, Hongyu Lu<sup>*</sup>, Weiye Shi, Ge Liu<sup>†</sup> 
+
 <sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.
 
 
