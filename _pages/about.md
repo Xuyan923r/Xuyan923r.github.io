@@ -43,12 +43,7 @@ Siqi Zhu, **Xuyan Ye<sup>*</sup>**, Hongyu Lu<sup>*</sup>, Weiye Shi, Ge Liu<sup
 
 <sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.
 
-
-[📓 **arXiv**](https://arxiv.org/abs/2601.13761)
-
-[🤗 **Huggingface**](https://huggingface.co/papers/2601.13761)
-
-[💻 **Github**](https://github.com/RUCBM/DARC)
+[🌍 **Homepage**](https://ulab-uiuc.github.io/OPD_website/)
 </div>
 </div>
 
