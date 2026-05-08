@@ -39,7 +39,7 @@ Hi!👋 My name is Xuyan Ye. I am a third-year undergraduate student majoring in
 
 **The Many Faces of On-Policy Distillation: Pitfalls, Mechanisms, and Fixes**
 
-Siqi Zhu, **Xuyan Ye<sup>*</sup>**, Hongyu Lu<sup>*</sup>, Weiye Shi, Ge Liu<sup>†</sup> 
+Siqi Zhu, **Xuyan Ye**, Hongyu Lu, Weiye Shi, Ge Liu<sup>†</sup> 
 
 <sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.
 
