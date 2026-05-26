@@ -23,7 +23,7 @@ Hi!👋 My name is Xuyan Ye. I am a third-year undergraduate student majoring in
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉 I am delighted to share that AgentProcessBench has been accepted to the KDD 2026 Datasets and Benchmarks Track! Looking forward to seeing you in Jeju.
+- *2026.05*: &nbsp;🎉 I am delighted to share that **[AgentProcessBench](https://rucbm.github.io/AgentProcessBench-Homepage/))** has been accepted to the **KDD 2026 Datasets and Benchmarks Track**! Looking forward to seeing you in Jeju.
 - *2026.02*: &nbsp;💻 I’m excited to share that I’ve started collaborating closely with **[U-Lab](https://ulab-uiuc.github.io/), UIUC**! Deeply grateful to Prof. [Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/) and the PhD mentors in the group for their invaluable guidance and support.
 - *2026.01*: &nbsp;📑 My first project, **[DARC](https://arxiv.org/abs/2601.13761)**, which I co-authored as a co–first author, is now available on **arXiv**! Huge thanks to Senior Fan and Prof. Lin for their guidance and support. I hope more people will check out **DARC**—if you have any ideas about self-evolving agents, feel free to reach out and chat!
 - *2025.09*: &nbsp;💻 I started my research internship at **RUCBM**! Many thanks to Professor [Yankai Lin](https://linyankai.github.io/) and the senior students at RUCBM for their guidance and support! 
@@ -54,7 +54,7 @@ Siqi Zhu, **Xuyan Ye<sup>*</sup>**, Hongyu Lu<sup>*</sup>, Weiye Shi, Ge Liu<sup
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/APBench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD D&B Track 2026</div><img src='images/APBench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **AgentProcessBench: Diagnosing Step-Level Process Quality in Tool-Using Agents**
 
