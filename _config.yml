@@ -38,7 +38,7 @@ author:
   facebook         :
   foursquare       :
   github           : "Xuyan923r"
-  huggingface      : "https://huggingface.co/LulaCola"
+  huggingface      : 
   wechat_qr        : #"images/wechat.JPG" # e.g., "images/wechat.JPG"
   google_plus      :
   keybase          :
@@ -53,7 +53,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://x.com/xuyan923r"
   vine             :
   weibo            :
   xing             :
