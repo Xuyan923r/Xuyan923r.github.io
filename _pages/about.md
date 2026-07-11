@@ -19,11 +19,12 @@ redirect_from:
 
 # 👋 About Me
 
-Hi!👋 My name is Xuyan Ye. I am a third-year undergraduate student majoring in AI at the **Gaoling School of Artificial Intelligence, Renmin University of China**. My research interests include **LLM Reasoning, Self-Evolving Agents, and Agentic RL**. ‼️ **I am actively seeking a Summer 2026 research internship and CS/AI PhD positions for Fall 2027 entry. If you are interested in my research experience, I would be very happy to connect.**
+Hi!👋 My name is Xuyan Ye. I am a third-year undergraduate student majoring in AI at the **Gaoling School of Artificial Intelligence, Renmin University of China**. My research interests include **LLM Reasoning, Self-Evolving Agents, and Agentic RL**. ‼️ **I am actively seeking a CS/AI PhD positions for Fall 2027 entry. If you are interested in my research experience, I would be very happy to connect.**
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉 I am delighted to share that **[AgentProcessBench](https://rucbm.github.io/AgentProcessBench-Homepage/)** has been accepted to the **KDD 2026 Datasets and Benchmarks Track**! Looking forward to seeing you in Jeju.
+- *2026.07*: &nbsp;🇸🇬 I’m delighted to join the **[BREATHE AI](https://breathelab.ai/)** at Nanyang Technological University as a summer research intern. I’m grateful to [Prof. Lu](https://breathelab.ai/WeiLu.html) for this opportunity and his guidance, and I look forward to the next three months in Singapore.
+- *2026.05*: &nbsp;🎉 I am delighted to share that **[AgentProcessBench](https://rucbm.github.io/AgentProcessBench-Homepage/)** has been accepted to the **KDD 2026 Datasets and Benchmarks Track**! 
 - *2026.02*: &nbsp;💻 I’m excited to share that I’ve started collaborating closely with **[U-Lab](https://ulab-uiuc.github.io/), UIUC**! Deeply grateful to Prof. [Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/) and the PhD mentors in the group for their invaluable guidance and support.
 - *2026.01*: &nbsp;📑 My first project, **[DARC](https://arxiv.org/abs/2601.13761)**, which I co-authored as a co–first author, is now available on **arXiv**! Huge thanks to Senior Fan and Prof. Lin for their guidance and support. I hope more people will check out **DARC**—if you have any ideas about self-evolving agents, feel free to reach out and chat!
 - *2025.09*: &nbsp;💻 I started my research internship at **RUCBM**! Many thanks to Professor [Yankai Lin](https://linyankai.github.io/) and the senior students at RUCBM for their guidance and support! 
