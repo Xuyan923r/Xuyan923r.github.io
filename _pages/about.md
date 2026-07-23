@@ -35,8 +35,27 @@ Hi!👋 My name is Xuyan Ye. I am a third-year undergraduate student majoring in
 
 # 📝 Preprints and Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/OPD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/AgentDebugX.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+**AgentDebugX: An Open-Source Toolkit for Failure Observability, Attribution, and Recovery in LLM Agents**
+
+Kunlun Zhu<sup>*</sup>, **Xuyan Ye<sup>*</sup>**, Zhiguang Han<sup>*</sup>, Yuchen Zhao, Bingxuan Li, Weijia Zhang, Muxin Tian, Xiangru Tang, Pan Lu, James Zhou, Jiaxuan You, Heng Ji
+
+<sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.
+
+[🌍 **Homepage**](https://www.agentdebugx.com/)
+
+[📓 **arXiv**](https://arxiv.org/abs/2607.18754)
+
+[🤗 **Huggingface**](https://huggingface.co/papers/2607.18754)
+
+[💻 **Github**](https://github.com/AgentDebugX/AgentDebugX)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD D&B Track 2026</div><img src='images/APBench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 
 **The Many Faces of On-Policy Distillation: Pitfalls, Mechanisms, and Fixes**
 
