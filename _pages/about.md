@@ -53,7 +53,7 @@ Kunlun Zhu<sup>*</sup>, **Xuyan Ye<sup>*</sup>**, Zhiguang Han<sup>*</sup>, Yuch
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD D&B Track 2026</div><img src='images/APBench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD D&B Track 2026</div><img src='images/OPD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
