@@ -23,6 +23,7 @@ Hi!👋 My name is Xuyan Ye. I am a third-year undergraduate student majoring in
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉 **[AgentDebugX](https://arxiv.org/abs/2607.18754)** has been accepted to the EMNLP 2026 Demo Track! Huge thanks to all my collaborators for making this possible!
 - *2026.07*: &nbsp;🇸🇬 I’m delighted to join the **[BREATHE AI](https://breathelab.ai/)** at Nanyang Technological University as a summer research intern. I’m grateful to [Prof. Lu](https://breathelab.ai/WeiLu.html) for this opportunity and his guidance, and I look forward to the next three months in Singapore.
 - *2026.05*: &nbsp;🎉 I am delighted to share that **[AgentProcessBench](https://rucbm.github.io/AgentProcessBench-Homepage/)** has been accepted to the **KDD 2026 Datasets and Benchmarks Track**! 
 - *2026.02*: &nbsp;💻 I’m excited to share that I’ve started collaborating closely with **[U-Lab](https://ulab-uiuc.github.io/), UIUC**! Deeply grateful to Prof. [Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/) and the PhD mentors in the group for their invaluable guidance and support.
@@ -36,7 +37,7 @@ Hi!👋 My name is Xuyan Ye. I am a third-year undergraduate student majoring in
 
 # 📝 Preprints and Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/AgentDebugX.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP Demo Track 2026</div><img src='images/AgentDebugX.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **AgentDebugX: An Open-Source Toolkit for Failure Observability, Attribution, and Recovery in LLM Agents**
 
