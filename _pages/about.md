@@ -198,6 +198,7 @@ Beyond my heartfelt thanks to the professors mentioned above for their guidance 
 <section class="acknowledgements-column">
 <h3>Friends</h3>
 <p><strong><a href="https://liuyuhan31.github.io/">Yuhan Liu</a></strong> — Postdoctoral Research Fellow at MBZUAI.</p>
-<!-- <p><strong><a href="https://shengxuanqiu.github.io/">Shengxuan Qiu</a></strong> — Undergraduate at Peking University.</p> -->
+<p><strong><a href="https://shengxuanqiu.github.io/">Shengxuan Qiu</a></strong> — Undergraduate at Peking University.</p>
+<p><strong>Qiuyang Li</strong> — Undergraduate at Renmin Univ.</p>
 </section>
 </div>
