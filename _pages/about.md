@@ -128,7 +128,7 @@ Shengda Fan<sup>*</sup>, **Xuyan Ye<sup>*</sup>**, Yupeng Huo, Zhiyuan Chen, Yij
 
 <div id="panel-supervision" class="publication-panel" data-category="supervision">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/DeltaTTG.png' alt="DeltaTTG progress meter training and credit assignment" width="100%"></div></div>
+<div class='paper-box' data-sort-priority='1'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/DeltaTTG.png' alt="DeltaTTG progress meter training and credit assignment" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **DeltaTTG: Training Multi-Turn Agents with a Token-to-Go Progress Meter**

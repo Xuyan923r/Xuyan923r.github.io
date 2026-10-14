@@ -7,12 +7,12 @@ document.querySelectorAll('[data-publication-tabs]').forEach(function (root) {
     panel.querySelectorAll('.paper-box').forEach(function (paper) {
       var link = paper.querySelector('a[href*="arxiv.org/abs/"]');
       var match = link && link.href.match(/arxiv\.org\/abs\/(\d{4})\.(\d+)/);
-      papers.push({node: paper, panel: panel, month: match ? Number(match[1]) : 0,
+      papers.push({node: paper, panel: panel, priority: Number(paper.dataset.sortPriority) || 0, month: match ? Number(match[1]) : 0,
         sequence: match ? Number(match[2]) : 0});
     });
   });
   var newestFirst = papers.slice().sort(function (a, b) {
-    return b.month - a.month || b.sequence - a.sequence;
+    return b.priority - a.priority || b.month - a.month || b.sequence - a.sequence;
   });
   var allPanel = document.createElement('div');
   allPanel.className = 'publication-panel';
