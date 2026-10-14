@@ -128,6 +128,18 @@ Shengda Fan<sup>*</sup>, **Xuyan Ye<sup>*</sup>**, Yupeng Huo, Zhiyuan Chen, Yij
 
 <div id="panel-supervision" class="publication-panel" data-category="supervision">
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/DeltaTTG.png' alt="DeltaTTG progress meter training and credit assignment" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**DeltaTTG: Training Multi-Turn Agents with a Token-to-Go Progress Meter**
+
+**Xuyan Ye<sup>*</sup>**, Xiyan Fu<sup>*</sup>, Shengda Fan<sup>*</sup>, Jiawei Cui, Yankai Lin, Wei Lu<sup>†</sup>
+
+<sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/AgentErrorDataset.png' alt="Agent Error Dataset overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -138,6 +150,8 @@ Kunlun Zhu, **Xuyan Ye**, Yibo Li, Cheng Qian, Beibin Li, Heng Ji<sup>†</sup>
 <sup>†</sup> Corresponding author.
 
 [📓 **arXiv**](https://arxiv.org/abs/2609.40111)
+
+[🤗 **Huggingface**](https://huggingface.co/papers/2609.40111)
 
 </div>
 </div>

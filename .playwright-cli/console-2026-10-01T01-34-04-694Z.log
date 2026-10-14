@@ -1,0 +1,6 @@
+[     782ms] TypeError: Cannot set properties of null (setting 'innerHTML')
+    at Object.success (http://127.0.0.1:4000/:452:60)
+    at u (http://127.0.0.1:4000/assets/js/main.min.js:2:9695)
+    at Object.fireWith [as resolveWith] (http://127.0.0.1:4000/assets/js/main.min.js:2:10464)
+    at i (http://127.0.0.1:4000/assets/js/main.min.js:3:22029)
+    at XMLHttpRequest.n (http://127.0.0.1:4000/assets/js/main.min.js:3:28300)

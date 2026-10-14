@@ -1,0 +1,432 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e5]:
+    - list [ref=e6]:
+      - listitem [ref=e7]:
+        - link "Homepage" [ref=e8] [cursor=pointer]:
+          - /url: "#about-me"
+      - listitem [ref=e9]:
+        - link "About Me" [ref=e10] [cursor=pointer]:
+          - /url: /#about-me
+      - listitem [ref=e11]:
+        - link "News" [ref=e12] [cursor=pointer]:
+          - /url: /#-news
+      - listitem [ref=e13]:
+        - link "Publications" [ref=e14] [cursor=pointer]:
+          - /url: /#publications
+      - listitem [ref=e15]:
+        - link "Educations" [ref=e16] [cursor=pointer]:
+          - /url: /#-educations
+      - listitem [ref=e17]:
+        - link "Internships" [ref=e18] [cursor=pointer]:
+          - /url: /#-internships
+      - listitem [ref=e19]:
+        - link "Honors and Awards" [ref=e20] [cursor=pointer]:
+          - /url: /#-honors-and-awards
+  - main [ref=e21]:
+    - generic [ref=e23]:
+      - img "Xuyan Ye" [ref=e25]
+      - generic [ref=e26]:
+        - heading "Xuyan Ye" [level=3] [ref=e27]
+        - paragraph [ref=e28]: Renmin University of China
+      - generic [ref=e29] [cursor=pointer]:
+        - list [ref=e30]:
+          - listitem
+          - listitem [ref=e31]:
+            - generic [aria-hidden] [ref=e32]: 
+            - text: Beijing, China
+          - listitem [ref=e33]:
+            - link "Email" [ref=e34]:
+              - /url: mailto:xuyan923r@gmail.com
+              - generic [aria-hidden] [ref=e35]: 
+              - text: Email
+          - listitem [ref=e36]:
+            - link "Twitter" [ref=e37]:
+              - /url: https://twitter.com/xuyan923r
+              - generic [aria-hidden] [ref=e38]: 
+              - text: Twitter
+          - listitem [ref=e39]:
+            - link "LinkedIn" [ref=e40]:
+              - /url: https://www.linkedin.com/in/xuyan-ye-133391347
+              - generic [aria-hidden] [ref=e41]: 
+              - text: LinkedIn
+          - listitem [ref=e42]:
+            - link "Github" [ref=e43]:
+              - /url: https://github.com/Xuyan923r
+              - generic [aria-hidden] [ref=e44]: 
+              - text: Github
+          - listitem [ref=e45]:
+            - link " Google Scholar" [ref=e46]:
+              - /url: https://scholar.google.com/citations?user=euF17h4AAAAJ
+              - generic [ref=e47]: 
+              - text: Google Scholar
+        - text:     
+    - article [ref=e48]:
+      - generic [ref=e50]:
+        - paragraph [ref=e51]
+        - heading "👋 About Me" [level=1] [ref=e53]
+        - paragraph [ref=e54]:
+          - text: Hi!👋 My name is Xuyan Ye. I am a fourth-year undergraduate student majoring in AI at the
+          - strong [ref=e55]: Gaoling School of Artificial Intelligence, Renmin University of China
+          - text: . I am advised by
+          - strong [ref=e56]:
+            - link "Prof. Yankai Lin" [ref=e57] [cursor=pointer]:
+              - /url: https://linyankai.github.io/
+          - text: . My research interests include
+          - strong [ref=e58]: LLM Reasoning, Self-Evolving Agents, and Agentic RL
+          - text: . ‼️
+          - strong [ref=e59]: I am actively seeking a CS/AI PhD positions for Fall 2027 entry. If you are interested in my research experience, I would be very happy to connect.
+        - heading "🔥 News" [level=1] [ref=e60]
+        - region "News" [ref=e61]:
+          - list [ref=e62]:
+            - listitem [ref=e63]:
+              - emphasis [ref=e64]: "2026.08"
+              - text: ": 🎉"
+              - strong [ref=e65]:
+                - link "AgentDebugX" [ref=e66] [cursor=pointer]:
+                  - /url: https://arxiv.org/abs/2607.18754
+              - text: has been accepted to the
+              - strong [ref=e67]: EMNLP 2026 Demo Track
+              - text: "! Huge thanks to all my collaborators for making this possible!"
+            - listitem [ref=e68]:
+              - emphasis [ref=e69]: "2026.07"
+              - text: ": 🇸🇬 I’m delighted to join the"
+              - strong [ref=e70]:
+                - link "BREATHE AI" [ref=e71] [cursor=pointer]:
+                  - /url: https://breathelab.ai/
+              - text: at Nanyang Technological University as a summer research intern. I’m grateful to
+              - link "Prof. Lu" [ref=e72] [cursor=pointer]:
+                - /url: https://breathelab.ai/WeiLu.html
+              - text: for this opportunity and his guidance, and I look forward to the next three months in Singapore.
+            - listitem [ref=e73]:
+              - emphasis [ref=e74]: "2026.05"
+              - text: ": 🎉 I am delighted to share that"
+              - strong [ref=e75]:
+                - link "AgentProcessBench" [ref=e76] [cursor=pointer]:
+                  - /url: https://rucbm.github.io/AgentProcessBench-Homepage/
+              - text: has been accepted to the
+              - strong [ref=e77]: KDD 2026 Datasets and Benchmarks Track
+              - text: "!"
+            - listitem [ref=e78]:
+              - emphasis [ref=e79]: "2026.02"
+              - text: ": 💻 I’m excited to share that I’ve started collaborating closely with"
+              - strong [ref=e80]:
+                - link "U-Lab" [ref=e81] [cursor=pointer]:
+                  - /url: https://ulab-uiuc.github.io/
+                - text: ", UIUC"
+              - text: "! Deeply grateful to Prof."
+              - link "Jiaxuan You" [ref=e82] [cursor=pointer]:
+                - /url: https://cs.stanford.edu/people/jiaxuan/
+              - text: and the PhD mentors in the group for their invaluable guidance and support.
+            - listitem [ref=e83]:
+              - emphasis [ref=e84]: "2026.01"
+              - text: ": 📑 My first project,"
+              - strong [ref=e85]:
+                - link "DARC" [ref=e86] [cursor=pointer]:
+                  - /url: https://arxiv.org/abs/2601.13761
+              - text: ", which I co-authored as a co–first author, is now available on"
+              - strong [ref=e87]: arXiv
+              - text: "! Huge thanks to Senior Fan and Prof. Lin for their guidance and support. I hope more people will check out"
+              - strong [ref=e88]: DARC
+              - text: —if you have any ideas about self-evolving agents, feel free to reach out and chat!
+            - listitem [ref=e89]:
+              - emphasis [ref=e90]: "2025.09"
+              - text: ": 💻 I started my research internship at"
+              - strong [ref=e91]: RUCBM
+              - text: "! Many thanks to Professor"
+              - link "Yankai Lin" [ref=e92] [cursor=pointer]:
+                - /url: https://linyankai.github.io/
+              - text: and the senior students at RUCBM for their guidance and support!
+            - listitem [ref=e93]:
+              - emphasis [ref=e94]: "2025.05"
+              - text: ": 🎉 I transferred from the"
+              - strong [ref=e95]:
+                - link "School of Finance" [ref=e96] [cursor=pointer]:
+                  - /url: http://sf.ruc.edu.cn/
+              - text: at Renmin University of China to the
+              - strong [ref=e97]:
+                - link "Gaoling School of Artificial Intelligence" [ref=e98] [cursor=pointer]:
+                  - /url: http://ai.ruc.edu.cn/
+              - text: ", and I’m really looking forward to studying at"
+              - strong [ref=e99]: GSAI
+              - text: over the next two years!
+            - listitem [ref=e100]:
+              - emphasis [ref=e101]: "2025.01"
+              - text: ": ⛰️ I began my three-month exchange at the"
+              - strong [ref=e102]: University of California, Davis
+              - text: ", and I am truly grateful to Renmin University of China for this valuable opportunity, as well as to the warm and welcoming faculty and students at UC Davis."
+        - paragraph [ref=e103]
+        - heading "📝 Preprints and Publications" [level=1] [ref=e105]
+        - generic [ref=e106]:
+          - generic [ref=e108]:
+            - generic [ref=e109]: EMNLP Demo Track 2026
+            - img "sym" [ref=e110]
+          - generic [ref=e111]:
+            - paragraph [ref=e112]:
+              - strong [ref=e113]: "AgentDebugX: An Open-Source Toolkit for Failure Observability, Attribution, and Recovery in LLM Agents"
+            - paragraph [ref=e114]:
+              - text: Kunlun Zhu
+              - superscript [ref=e115]: "*"
+              - text: ","
+              - strong [ref=e116]:
+                - text: Xuyan Ye
+                - superscript [ref=e117]: "*"
+              - text: ", Zhiguang Han"
+              - superscript [ref=e118]: "*"
+              - text: ", Yuchen Zhao, Bingxuan Li, Weijia Zhang, Muxin Tian, Xiangru Tang, Pan Lu, James Zhou, Jiaxuan You, Heng Ji"
+            - paragraph [ref=e119]:
+              - superscript [ref=e120]: "*"
+              - text: Equal contribution.
+              - superscript [ref=e121]: †
+              - text: Corresponding author.
+            - paragraph [ref=e122]:
+              - link [ref=e123] [cursor=pointer]:
+                - /url: https://www.agentdebugx.com/
+                - text: 🌍
+                - strong [ref=e124]: Homepage
+            - paragraph [ref=e125]:
+              - link [ref=e126] [cursor=pointer]:
+                - /url: https://arxiv.org/abs/2607.18754
+                - text: 📓
+                - strong [ref=e127]: arXiv
+            - paragraph [ref=e128]:
+              - link [ref=e129] [cursor=pointer]:
+                - /url: https://huggingface.co/papers/2607.18754
+                - text: 🤗
+                - strong [ref=e130]: Huggingface
+            - paragraph [ref=e131]:
+              - link [ref=e132] [cursor=pointer]:
+                - /url: https://github.com/AgentDebugX/AgentDebugX
+                - text: 💻
+                - strong [ref=e133]: Github
+        - generic [ref=e134]:
+          - generic [ref=e136]:
+            - generic [ref=e137]: Preprint
+            - img "sym" [ref=e138]
+          - generic [ref=e139]:
+            - paragraph [ref=e140]:
+              - strong [ref=e141]: "The Many Faces of On-Policy Distillation: Pitfalls, Mechanisms, and Fixes"
+            - paragraph [ref=e142]:
+              - text: Siqi Zhu,
+              - strong [ref=e143]:
+                - text: Xuyan Ye
+                - superscript [ref=e144]: "*"
+              - text: ", Hongyu Lu"
+              - superscript [ref=e145]: "*"
+              - text: ", Weiye Shi, Ge Liu"
+              - superscript [ref=e146]: †
+            - paragraph [ref=e147]:
+              - superscript [ref=e148]: "*"
+              - text: Equal contribution.
+              - superscript [ref=e149]: †
+              - text: Corresponding author.
+            - paragraph [ref=e150]:
+              - link [ref=e151] [cursor=pointer]:
+                - /url: https://ulab-uiuc.github.io/OPD_website/
+                - text: 🌍
+                - strong [ref=e152]: Homepage
+            - paragraph [ref=e153]:
+              - link [ref=e154] [cursor=pointer]:
+                - /url: https://arxiv.org/abs/2605.11182
+                - text: 📓
+                - strong [ref=e155]: arXiv
+            - paragraph [ref=e156]:
+              - link [ref=e157] [cursor=pointer]:
+                - /url: https://huggingface.co/papers/2605.11182
+                - text: 🤗
+                - strong [ref=e158]: Huggingface
+            - paragraph [ref=e159]:
+              - link [ref=e160] [cursor=pointer]:
+                - /url: https://github.com/ulab-uiuc/Open-On-Policy-Distillation
+                - text: 💻
+                - strong [ref=e161]: Github
+        - generic [ref=e162]:
+          - generic [ref=e164]:
+            - generic [ref=e165]: KDD D&B Track 2026
+            - img "sym" [ref=e166]
+          - generic [ref=e167]:
+            - paragraph [ref=e168]:
+              - strong [ref=e169]: "AgentProcessBench: Diagnosing Step-Level Process Quality in Tool-Using Agents"
+            - paragraph [ref=e170]:
+              - text: Shengda Fan
+              - superscript [ref=e171]: "*"
+              - text: ","
+              - strong [ref=e172]:
+                - text: Xuyan Ye
+                - superscript [ref=e173]: "*"
+              - text: ", Yupeng Huo, Zhiyuan Chen, Yiju Guo, Shenzhi Yang, Wenkai Yang, Shuqi Ye, Jingwen Chen, Haotian Chen, Xin Cong, Yankai Lin"
+              - superscript [ref=e174]: †
+              - superscript [ref=e175]: "*"
+              - text: Equal contribution.
+              - superscript [ref=e176]: †
+              - text: Corresponding author.
+            - paragraph [ref=e177]:
+              - link [ref=e178] [cursor=pointer]:
+                - /url: https://rucbm.github.io/AgentProcessBench-Homepage/
+                - text: 🌍
+                - strong [ref=e179]: Homepage
+            - paragraph [ref=e180]:
+              - link [ref=e181] [cursor=pointer]:
+                - /url: https://arxiv.org/abs/2603.14465
+                - text: 📓
+                - strong [ref=e182]: arXiv
+            - paragraph [ref=e183]:
+              - link [ref=e184] [cursor=pointer]:
+                - /url: https://huggingface.co/papers/2603.14465
+                - text: 🤗
+                - strong [ref=e185]: Huggingface
+            - paragraph [ref=e186]:
+              - link [ref=e187] [cursor=pointer]:
+                - /url: https://github.com/RUCBM/AgentProcessBench
+                - text: 💻
+                - strong [ref=e188]: Github
+        - generic [ref=e189]:
+          - generic [ref=e191]:
+            - generic [ref=e192]: Preprint
+            - img "sym" [ref=e193]
+          - generic [ref=e194]:
+            - paragraph [ref=e195]:
+              - strong [ref=e196]: "DARC: Decoupled Asymmetric Reasoning Curriculum for LLM Evolution"
+            - paragraph [ref=e197]:
+              - text: Shengda Fan
+              - superscript [ref=e198]: "*"
+              - text: ","
+              - strong [ref=e199]:
+                - text: Xuyan Ye
+                - superscript [ref=e200]: "*"
+              - text: ", Yankai Lin"
+              - superscript [ref=e201]: †
+              - superscript [ref=e202]: "*"
+              - text: Equal contribution.
+              - superscript [ref=e203]: †
+              - text: Corresponding author.
+            - paragraph [ref=e204]:
+              - link [ref=e205] [cursor=pointer]:
+                - /url: https://arxiv.org/abs/2601.13761
+                - text: 📓
+                - strong [ref=e206]: arXiv
+            - paragraph [ref=e207]:
+              - link [ref=e208] [cursor=pointer]:
+                - /url: https://huggingface.co/papers/2601.13761
+                - text: 🤗
+                - strong [ref=e209]: Huggingface
+            - paragraph [ref=e210]:
+              - link [ref=e211] [cursor=pointer]:
+                - /url: https://github.com/RUCBM/DARC
+                - text: 💻
+                - strong [ref=e212]: Github
+        - heading "📖 Educations" [level=1] [ref=e213]
+        - list [ref=e214]:
+          - listitem [ref=e215]:
+            - emphasis [ref=e216]: 2023.09 - 2027.06 (expected)
+            - text: ": Undergraduate student at the Gaoling School of Artificial Intelligence,"
+            - strong [ref=e217]: Renmin University of China
+            - text: ", Beijing."
+          - listitem [ref=e218]:
+            - emphasis [ref=e219]: 2025.01 - 2025.03
+            - text: ": Exchange student at the"
+            - strong [ref=e220]: University of California, Davis
+            - text: ", USA."
+        - heading "🔬 Research Experience" [level=1] [ref=e221]
+        - list [ref=e222]:
+          - listitem [ref=e223]:
+            - emphasis [ref=e224]: 2026.01 - Present
+            - text: ":"
+            - strong [ref=e225]: University of Illinois Urbana-Champaign
+            - text: ", Remote."
+            - list [ref=e226]:
+              - listitem [ref=e227]:
+                - strong [ref=e228]: Labs & PIs
+                - text: ":"
+                - link "U-Lab" [ref=e229] [cursor=pointer]:
+                  - /url: https://ulab-uiuc.github.io/
+                - text: —
+                - link "Prof. Jiaxuan You" [ref=e230] [cursor=pointer]:
+                  - /url: https://cs.stanford.edu/people/jiaxuan/
+                - text: ;
+                - link "Blender-Lab" [ref=e231] [cursor=pointer]:
+                  - /url: https://blender.cs.illinois.edu/
+                - text: —
+                - link "Prof. Heng Ji" [ref=e232] [cursor=pointer]:
+                  - /url: https://blender.cs.illinois.edu/hengji.html
+                - text: .
+              - listitem [ref=e233]:
+                - strong [ref=e234]: Research
+                - text: ": World Models, LLM Post-Training, and Tool-Using Agents."
+          - listitem [ref=e235]:
+            - emphasis [ref=e236]: 2026.07 - 2026.09
+            - text: ":"
+            - strong [ref=e237]: Nanyang Technological University
+            - text: ", Singapore."
+            - list [ref=e238]:
+              - listitem [ref=e239]:
+                - strong [ref=e240]: Lab
+                - text: ":"
+                - link "BREATHE-AI" [ref=e241] [cursor=pointer]:
+                  - /url: https://breathelab.ai/
+                - text: .
+                - strong [ref=e242]: PI
+                - text: ":"
+                - link "Prof. Wei Lu" [ref=e243] [cursor=pointer]:
+                  - /url: https://dr.ntu.edu.sg/entities/person/Wei-Lu
+                - text: .
+              - listitem [ref=e244]:
+                - strong [ref=e245]: Research
+                - text: ": Self-Evolving Agents and Credit Assignment."
+          - listitem [ref=e246]:
+            - emphasis [ref=e247]: 2025.08 - 2026.02
+            - text: ":"
+            - strong [ref=e248]: Renmin University of China
+            - text: ", Beijing."
+            - list [ref=e249]:
+              - listitem [ref=e250]:
+                - strong [ref=e251]: Lab
+                - text: ":"
+                - link "RUCBM" [ref=e252] [cursor=pointer]:
+                  - /url: https://github.com/RUCBM
+                - text: .
+                - strong [ref=e253]: PI
+                - text: ":"
+                - link "Prof. Yankai Lin" [ref=e254] [cursor=pointer]:
+                  - /url: https://linyankai.github.io/
+                - text: .
+              - listitem [ref=e255]:
+                - strong [ref=e256]: Research
+                - text: ": LLM Reasoning, Tool-Using Agents, and Agentic RL."
+        - heading "💻 Internships" [level=1] [ref=e257]
+        - list [ref=e258]:
+          - listitem [ref=e259]:
+            - emphasis [ref=e260]: 2026.09 - Present
+            - text: ": LLM Research Intern,"
+            - strong [ref=e261]: Ant Group
+            - text: ", Beijing."
+            - list [ref=e262]:
+              - listitem [ref=e263]:
+                - strong [ref=e264]: Advisor
+                - text: ":"
+                - link "Wei Wu" [ref=e265] [cursor=pointer]:
+                  - /url: https://sites.google.com/view/wei-wu-homepage/home
+                - text: .
+              - listitem [ref=e266]:
+                - strong [ref=e267]: Research
+                - text: ": LLM Agents and Agentic Reasoning, with a focus on dialogue and user simulation, and continual post-training."
+          - listitem [ref=e268]:
+            - emphasis [ref=e269]: 2025.09 - 2025.11
+            - text: ": LLM Application Intern, Content Quality and Data Service Platform,"
+            - strong [ref=e270]: ByteDance
+            - text: .
+          - listitem [ref=e271]:
+            - emphasis [ref=e272]: 2025.05 - 2025.08
+            - text: ": AI Product Manager Intern, Large Language Model Division,"
+            - strong [ref=e273]: Tencent
+            - text: .
+        - heading "🎖 Honors and Awards" [level=1] [ref=e274]
+        - list [ref=e275]:
+          - listitem [ref=e276]:
+            - emphasis [ref=e277]: "2026.05"
+            - text: Beijing Natural Science Foundation Undergraduate “Qiyan” Project (启研计划), RMB 50,000.
+          - listitem [ref=e278]:
+            - emphasis [ref=e279]: "2025.10"
+            - text: Renmin University of China Academic Excellence Scholarship.
+          - listitem [ref=e280]:
+            - emphasis [ref=e281]: "2025.04"
+            - text: Renmin University of China Presidential Scholarship.
