@@ -137,6 +137,12 @@ Shengda Fan<sup>*</sup>, **Xuyan Ye<sup>*</sup>**, Yupeng Huo, Zhiyuan Chen, Yij
 
 <sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.
 
+[📓 **arXiv**](https://arxiv.org/abs/2610.17666)
+
+[🤗 **Huggingface**](https://huggingface.co/papers/2610.17666)
+
+[💻 **Github**](https://github.com/Xuyan923r/DeltaTTG)
+
 </div>
 </div>
 
