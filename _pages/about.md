@@ -128,6 +128,22 @@ Shengda Fan<sup>*</sup>, **Xuyan Ye<sup>*</sup>**, Yupeng Huo, Zhiyuan Chen, Yij
 
 <div id="panel-supervision" class="publication-panel" data-category="supervision">
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/CoPE.png' alt="CoPE joint training of acting and forecasting" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Co-Evolving Acting and Forecasting for Language Agents**
+
+Haofei Yu<sup>*</sup>, Yixing Chen<sup>*</sup>, Yining Zhao, **Xuyan Ye**, Yuxiang Liu, Zhigang Hua, Yan Xie, Shuang Yang, Jiaxuan You
+
+<sup>*</sup> Equal contribution.
+
+[📓 **arXiv**](https://arxiv.org/abs/2610.20597)
+
+[💻 **Github**](https://github.com/ulab-uiuc/CoPE)
+
+</div>
+</div>
+
 <div class='paper-box' data-sort-priority='1'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/DeltaTTG.png' alt="DeltaTTG progress meter training and credit assignment" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
