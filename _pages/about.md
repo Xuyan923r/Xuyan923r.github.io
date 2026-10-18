@@ -26,7 +26,7 @@ I have also collaborated with **[Prof. Jiaxuan You](https://cs.stanford.edu/peop
 My research interests include **LLM Reasoning, Fine-Grained Agent Evaluation, and Process Supervision in Agentic RL**.
 
 <div class="phd-callout" markdown="1">
-**I am actively seeking CS/AI PhD positions for Fall 2027 entry.** I warmly welcome academic discussions and research collaborations of all kinds, and would be delighted to connect. Please feel free to email me at [xuyan923r@gmail.com](mailto:xuyan923r@gmail.com).
+I warmly welcome academic discussions and research collaborations of all kinds, and would be delighted to connect. Please feel free to email me at [xuyan923r@gmail.com](mailto:xuyan923r@gmail.com).
 </div>
 
 
