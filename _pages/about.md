@@ -19,7 +19,7 @@ redirect_from:
 
 # 👋 About Me
 
-Hello! My name is Xuyan Ye. I am a fourth-year undergraduate student majoring in AI at the **Gaoling School of Artificial Intelligence, Renmin University of China**, advised by **[Prof. Yankai Lin](https://linyankai.github.io/)** at **RUCBM**. I am currently an LLM Research Intern at **Ant Group**, advised by **[Wei Wu](https://sites.google.com/view/wei-wu-homepage/home)**, working on Agentic RL and LLM Reasoning.
+Hello! My name is Xuyan Ye. I am a fourth-year undergraduate student majoring in AI at the **Gaoling School of Artificial Intelligence, Renmin University of China**, advised by **[Prof. Yankai Lin](https://linyankai.github.io/)** at **RUCBM**. I will join the **Department of Computer Science and Engineering (CSE), Hong Kong University of Science and Technology (HKUST)** as a Ph.D. student, advised by **[Prof. Song Guo](https://home.cse.ust.hk/~songguo/)**. I am currently an LLM Research Intern at **Ant Group**, advised by **[Wei Wu](https://sites.google.com/view/wei-wu-homepage/home)**, working on Agentic RL and LLM Reasoning.
 
 I have also collaborated with **[Prof. Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/)** and **[Prof. Heng Ji](https://blender.cs.illinois.edu/hengji.html)** at **[UIUC](https://illinois.edu/)**. Previously, I spent a wonderful summer at **[BREATHE-AI](https://breathelab.ai/)**, **Nanyang Technological University**, Singapore, conducting research under the guidance of **[Prof. Wei Lu](https://dr.ntu.edu.sg/entities/person/Wei-Lu)**.
 
