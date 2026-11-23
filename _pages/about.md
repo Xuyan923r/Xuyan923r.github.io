@@ -19,7 +19,11 @@ redirect_from:
 
 # 👋 About Me
 
-Hello! My name is Xuyan Ye. I am a fourth-year undergraduate student majoring in AI at the **Gaoling School of Artificial Intelligence, Renmin University of China**, advised by **[Prof. Yankai Lin](https://linyankai.github.io/)** at **RUCBM**. I will join the **Department of Computer Science and Engineering (CSE), Hong Kong University of Science and Technology (HKUST)** as a Ph.D. student, advised by **[Prof. Song Guo](https://home.cse.ust.hk/~songguo/)**. I am currently an LLM Research Intern at **Ant International**, working on Agentic RL and LLM Reasoning.
+Hello! My name is Xuyan Ye. I am a fourth-year undergraduate student majoring in AI at the **Gaoling School of Artificial Intelligence, Renmin University of China**, advised by **[Prof. Yankai Lin](https://linyankai.github.io/)** at **RUCBM**. I will join the **Department of Computer Science and Engineering (CSE), Hong Kong University of Science and Technology (HKUST)** as a Ph.D. student, advised by **[Prof. Song Guo](https://home.cse.ust.hk/~songguo/)**.
+
+{% comment %}
+I am currently an LLM Research Intern at **Ant International**, working on Agentic RL and LLM Reasoning.
+{% endcomment %}
 
 I have also collaborated with **[Prof. Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/)** and **[Prof. Heng Ji](https://blender.cs.illinois.edu/hengji.html)** at **[UIUC](https://illinois.edu/)**. Previously, I spent a wonderful summer at **[BREATHE-AI](https://breathelab.ai/)**, **Nanyang Technological University**, Singapore, conducting research under the guidance of **[Prof. Wei Lu](https://dr.ntu.edu.sg/entities/person/Wei-Lu)**.
 
@@ -208,7 +212,10 @@ Kunlun Zhu<sup>*</sup>, **Xuyan Ye<sup>*</sup>**, Zhiguang Han<sup>*</sup>, Yuch
 - *2025.01 - 2025.03*: Exchange student at the **University of California, Davis**, USA.
 
 # 💻 Internships
+{% comment %}
 - *2026.09 - Present*: LLM Research Intern, **Ant International**, Beijing.
+{% endcomment %}
+
 - *2025.09 - 2025.11*: LLM Application Intern, Content Quality and Data Service Platform, **ByteDance**.
 - *2025.05 - 2025.08*: AI Product Manager Intern, Large Language Model Division, **Tencent**.
 
